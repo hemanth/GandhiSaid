@@ -11,7 +11,7 @@ __On anroid:__
 
 __On ios:__
 
-![GandhiSays-ios.png](./GandhiSays-ios.png)
+![GandhiSays-ios.gif](./GandhiSays-ios.gif)
 
 
 __TODO:__
